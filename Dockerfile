@@ -1,3 +1,5 @@
+#git clone https://github.com/eshnil2000/memq 
+#cd memq 
 #docker build -t memq .
 #docker run -p8081:80 -d memq
 #create queue, then add/drain messages
